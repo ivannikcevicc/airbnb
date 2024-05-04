@@ -1,7 +1,7 @@
 "use client";
 import useCountries from "@/app/hooks/useCountries";
 import { SafeUser } from "@/app/types";
-import React from "react";
+
 import { IconType } from "react-icons";
 import { Avatar } from "../avatar";
 import { ListingCategory } from "./ListingCategory";
